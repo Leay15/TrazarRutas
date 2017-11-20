@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694477666174",
+    "firebase_url": "https://sodium-replica-184903.firebaseio.com",
+    "project_id": "sodium-replica-184903",
+    "storage_bucket": "sodium-replica-184903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694477666174:android:6f12c1f860986e06",
+        "android_client_info": {
+          "package_name": "ivan.trgooglemapsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694477666174-it12hk5np11lr2rjgr209ckbgva3995f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ivan.trgooglemapsapi",
+            "certificate_hash": "5bda72473891863c0de096c58b66bfb0abf440bb"
+          }
+        },
+        {
+          "client_id": "694477666174-f1j04mmvuveu28b6j6uv3uff3bm3889p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAziQsXrlAqgZmcm1O7oqoxTd_Gg-na6AA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694477666174-f1j04mmvuveu28b6j6uv3uff3bm3889p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
